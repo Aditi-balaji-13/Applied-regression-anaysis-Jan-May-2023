@@ -1,0 +1,11 @@
+# Model Adequecy Check
+
+### B Aditi \|\| MM19B022
+
+## Problem 4.2
+
+```{r}
+#Getting table from 3.1
+tb1 <- read.csv('Table_B1.csv',header=TRUE,
+                      stringsAsFactors=FALSE)
+```
