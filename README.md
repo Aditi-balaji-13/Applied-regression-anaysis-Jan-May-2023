@@ -36,7 +36,7 @@ This repository contains coursework from the *Applied Regression Analysis* cours
 ## 👩🏻‍💻 Author
 
 **Aditi Balaji**  
-Master of Data Science, Rice University  
+Bachelor of Technology, IIT Madras - Minor in Artificial Intelligence and Machine Learning
 [LinkedIn](https://www.linkedin.com/in/aditibalaji) | [GitHub](https://github.com/Aditi-balaji-13)
 
 ---
